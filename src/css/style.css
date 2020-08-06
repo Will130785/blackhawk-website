@@ -22,31 +22,31 @@ html {
 
 @media only screen and (max-width: 600px) {
     html {
-        font-size: 45%;
+        font-size: 40%;
     }
 }
 
 @media only screen and (max-width: 500px) {
     html {
-        font-size: 40%;
+        font-size: 35%;
     }
 }
 
 @media only screen and (max-width: 400px) {
     html {
-        font-size: 35%;
+        font-size: 30%;
     }
 }
 
 @media only screen and (max-width: 300px) {
     html {
-        font-size: 30%;
+        font-size: 25%;
     }
 }
 
 @media only screen and (max-width: 250px) {
     html {
-        font-size: 30%;
+        font-size: 20%;
     }
 }
 
@@ -79,4 +79,10 @@ h1 {
 
 p {
     font-size: 2.5rem;
+}
+
+.icon {
+    font-size: 5rem;
+    color: #fff;
+    margin: 2rem;
 }
