@@ -86,3 +86,11 @@ p {
     color: #fff;
     margin: 2rem;
 }
+
+.business {
+    color: #a3d5fa;
+}
+
+.business p {
+    font-size: 1.2rem;
+}
