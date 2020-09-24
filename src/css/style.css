@@ -254,6 +254,12 @@ nav {
     display: flex;
 }
 
+@media only screen and (max-width: 900px) {
+    .why {
+        flex-direction: column;
+    }
+}
+
 .why-text {
     width: 50%;
     display: flex;
