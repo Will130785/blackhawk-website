@@ -267,6 +267,12 @@ nav {
     align-items: center;
 }
 
+@media only screen and (max-width: 900px) {
+    .why-text {
+        width: 100%;
+    }
+}
+
 .why-text h2 {
     font-size: 3rem;
     color: #95d6fe;
@@ -285,6 +291,12 @@ nav {
 
 .why-pic {
     width: 50%;
+}
+
+@media only screen and (max-width: 900px) {
+    .why-pic {
+        width: 100%;
+    }
 }
 
 .why-pic-img {
