@@ -483,6 +483,34 @@ nav {
     width: 100%;
 }
 
+/* PRICE LIST */
+.price {
+    margin-top: 5rem;
+}
+
+.price h2 {
+    font-size: 3rem;
+    color: #95d6fe;
+    margin-bottom: 4rem;
+}
+
+.price h3 {
+    font-size: 2.5rem;
+    color: #fff;
+    margin: 3rem 0;
+}
+
+.price h4 {
+    font-size: 2rem;
+    color: #fff;
+    margin: 3rem 0;
+}
+
+.price p {
+    font-size: 1.8rem;
+    color:#fff;
+}
+
 /* FOOTER SECTION */
 .footer {
     background-color: #231f20;
